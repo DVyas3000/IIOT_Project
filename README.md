@@ -1,8 +1,8 @@
 # Automated Home Climate Control System
 
 ## Team 46:
-Kushagra Agrawal - 2024101110<br />
 Devshree Vyas - 2024111003<br />
+Kushagra Agrawal - 2024101110<br />
 Samarth Rao - 2024111035
 
 ## Introduction
